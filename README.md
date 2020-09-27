@@ -41,7 +41,7 @@ npm i figlet <br>
 Sample screenshots showing the user input and result is shown below.
 
 ![Sample1 Screenshot](./assets/sample1.png)
-![Sample1 Screenshot](./assets/sample1.png)
+![Sample2 Screenshot](./assets/sample2.png)
 
 You can also find a walkthrough video that demonstrates the functionality of the application [here](https://drive.google.com/file/d/1TJwoAB7kgpbB48F3PWLvoIbDt0DI9UrU/view)
 
